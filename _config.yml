@@ -364,7 +364,7 @@ codeblock:
   highlight_theme: normal
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
     show_result: false
     # Available values: default | flat | mac
@@ -593,7 +593,7 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname:
   count: true
   lazyload: false
