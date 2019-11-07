@@ -594,7 +594,7 @@ comments:
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: ybgwon
   count: true
   lazyload: false
   #post_meta_order: 0
